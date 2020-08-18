@@ -41,13 +41,13 @@ Using HTML5 standard form and a simple serverside script (using one of the bitco
 
 <Metanet Flag> <Pnode> <TxIDparent>  
 
-<MURL flag> <A. domain> <B. complete-path> <C. node identifier> <A&B&C signed> <owner address> 
+<MURL flag> <A. domain> <B. complete-path> <C. node identifier> <A&B&C signed> <Bitcoin owner address> 
 
   
 
 The <MURL> flag comes behind the <𝑇𝑥𝐼𝐷𝑝𝑎𝑟𝑒𝑛𝑡> and is comprised of the following elements: 
 
-<MURL> <A. Domain> <B. Complete path> <C. Node Identifier> <A&B&C Signed> <Owner Address> 
+<MURL> <A. Domain> <B. Complete path> <C. Node Identifier> <A&B&C Signed> <Bitcoin Owner Address> 
 
 Where 
 
